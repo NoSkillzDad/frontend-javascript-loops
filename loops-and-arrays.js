@@ -68,7 +68,7 @@ console.log("\nOpdracht 2");
 const squares = [30, 2, 8, 24, 11];
 
     for (let j = 0; j < squares.length; j++) {
-        console.log(`Het volume van ${squares[j]} is squares ` + squares[j] * squares[j]  * squares[j]);
+        console.log(`Het volume van ${squares[j]} is ` + squares[j] * squares[j]  * squares[j]);
     }
 
 
