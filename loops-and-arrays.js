@@ -68,6 +68,7 @@ console.log("\nOpdracht 2");
 const squares = [30, 2, 8, 24, 11];
 
     for (let j = 0; j < squares.length; j++) {
+
         console.log(`Het volume van ${Math.pow(squares[j], 3)}`);
     }
 
