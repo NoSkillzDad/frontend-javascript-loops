@@ -44,7 +44,7 @@ for (let i = 0; i < 5; i++) {
 // ==========================================
 console.log("\nOpdracht 3");
 
-for (let i = 1; i <= 15; i++) {
+for (let i = 0; i <= 15; i++) {
     switch (i % 2) {
         case 0: {
             console.log(`${i} is even`);
